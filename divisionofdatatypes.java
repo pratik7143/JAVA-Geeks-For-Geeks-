@@ -1,8 +1,7 @@
 package Basics;
 public class divisionofdatatypes 
 {
-    public static void main(String[] args) 
-    {
+    public static void main(String[] args) {
         double x = 5/2; //logical error
         double y = 5.0/2.0; // logical error is corrected
         double a = 3;
