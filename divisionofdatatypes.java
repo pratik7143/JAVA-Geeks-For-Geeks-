@@ -1,5 +1,4 @@
 package Basics;
-
 public class divisionofdatatypes {
     public static void main(String[] args) {
         double x = 5/2; //logical error
