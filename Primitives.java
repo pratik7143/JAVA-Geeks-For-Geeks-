@@ -6,7 +6,6 @@ public class Primitives {
         double largeDecimalNumbers = 4634573.9808;
         long largeIntegerValues = 3553679809L;
         boolean check = true;
-
         //String is not primitive data type
     }
 }
