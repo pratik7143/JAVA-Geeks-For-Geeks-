@@ -1,6 +1,5 @@
 public class Primitives {
     public static void main(String[] args){
-
         int sapid = 590023543;
         char letter = 'P';
         float marks = 98.76f;
