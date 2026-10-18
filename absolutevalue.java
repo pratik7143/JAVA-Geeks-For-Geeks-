@@ -10,7 +10,8 @@ public class absolutevalue
         a = obj.nextInt();
         if(a>=0){
             System.out.println(a);
-        }else{
+        }else
+        {
             System.out.println(-a);
         }
     }
