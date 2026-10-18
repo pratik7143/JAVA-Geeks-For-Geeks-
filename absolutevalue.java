@@ -1,6 +1,7 @@
 package IfElse;
 import java.util.Scanner;
-public class absolutevalue {
+public class absolutevalue 
+{
     public static void main(String[] args) {
         Scanner obj = new Scanner(System.in);
         System.out.println("Enter a number");
