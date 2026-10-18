@@ -8,7 +8,8 @@ public class evenodd {
         a = obj.nextInt();
         if(a%2==0){
             System.out.println("The number entered is even");
-        }else {
+        }
+        else {
             System.out.println("The number entered is odd");
         }
     }
