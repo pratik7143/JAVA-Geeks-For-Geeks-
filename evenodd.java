@@ -9,7 +9,8 @@ public class evenodd {
         if(a%2==0){
             System.out.println("The number entered is even");
         }
-        else {
+        else 
+        {
             System.out.println("The number entered is odd");
         }
     }
