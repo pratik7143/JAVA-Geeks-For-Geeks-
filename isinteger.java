@@ -8,6 +8,5 @@ public class isinteger {
         int x = (int)a; //typecasting
         if(a-x>0) System.out.println("The number entered is not an Integer");
         else System.out.println("The number entered is an Integer");
-
     }
 }
