@@ -1,5 +1,4 @@
 package Loops;
-
 import java.util.Scanner;
 public class GP {
     public static void main(String[] args) {
